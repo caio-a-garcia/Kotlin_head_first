@@ -1,6 +1,6 @@
 import kotlin.random.Random
 
-fun main(args : Array<String>) {
+/*fun main(args : Array<String>) {
 
     //PhraseOMatic (pg 120)
     /*val wordArray1 = arrayOf("24/7", "Multi-tier", "B-to-B", "Dynamic", "Pervasive")
@@ -31,4 +31,4 @@ fun main(args : Array<String>) {
         x += 1
     }*/
 
-}
+}*/
