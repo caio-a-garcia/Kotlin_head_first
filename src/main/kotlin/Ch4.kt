@@ -1,7 +1,7 @@
 /*fun main(){
 
     //Rectangles (pg 226)
-    /*val r = arrayOf(Rectangle(1, 1), Rectangle(1, 1),
+    val r = arrayOf(Rectangle(1, 1), Rectangle(1, 1),
                     Rectangle(1, 1), Rectangle(1, 1))
 
     for(x in r.indices) {
@@ -9,7 +9,7 @@
         r[x].height = x + 5
         print("Rectangle $x has area ${r[x].area}. ")
         println("It is ${if(r[x].isSquare) "" else "not "}a square.")
-    }*/
+    }
 
 
 
