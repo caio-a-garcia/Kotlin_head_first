@@ -1,4 +1,4 @@
-fun main() {
+/*fun main() {
     val animals = arrayOf(Hippo(), Wolf())
     for(item in animals) {
         item.roam()
@@ -20,7 +20,7 @@ fun main() {
             item.eat()
         }
     }
-}
+}*/
 
 interface Roamable {
     fun roam()
